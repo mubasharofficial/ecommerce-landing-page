@@ -161,7 +161,6 @@ a>i{
    top: -15px; 
 }
 .top-slider-left{
-   background-color: antiquewhite;
    
 }
 .top-slider-left img{
@@ -186,32 +185,6 @@ a>i{
 .slider-bar{
    width:40%;
    height: 15px;
-   background-color: #ed362b;
-}
-.btn-back-demo-link{
-
-   font-size: large;
-}
-.btn-back-demo{
-   font-size: 20px;
-   background-color: #ed362b;
-   border-radius: 20px;
-   color:white;
-   font-weight: 500;
-}
-.demo-link-button-div{
-   margin-top: auto!important;
-   margin-bottom: auto!important;
+   background-color: red;
 }
 
-.mash-effect{
-   background-color: #323232;
-   color:white;
-}
-.bg-backgournd-blue{
-   background-color: #20c4f4;
-}
-.container-align-center{
-   display:inline-block;
-    align-items: center;
-}
